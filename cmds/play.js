@@ -1,5 +1,5 @@
 module.exports = {
-    name: 'musicplay'
+    name: 'play'
 }
 
 module.exports.code = async (message, args) => {
