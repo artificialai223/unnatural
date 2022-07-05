@@ -1,7 +1,7 @@
 {
   "lockfileVersion": 1,
   "dependencies": {
-    "@discordjs/opus": "^0.1.0",
+    "@discordjs/opus": "^0.8.0",
     "better-sqlite-pool": "^0.2.3",
     "better-sqlite3": "^6.0.1",
     "discord.js": "^12.2.0",
